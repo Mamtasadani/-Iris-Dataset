@@ -1,9 +1,3 @@
-
-# coding: utf-8
-
-# In[67]:
-
-
 import warnings
 warnings.filterwarnings(action='ignore', category=UserWarning, module='sklearn')
 import pandas as pd
