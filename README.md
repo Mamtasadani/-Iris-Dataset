@@ -1,12 +1,12 @@
 # -Iris-Dataset
 
-### Question.### 
+### Question.
 Program to build models and complete predictive modeling machine learning project using *IRIS dataset*
 
-### Python libraries used :###
+### Python libraries used :
 pandas,matplotlib,numpy,scikit-learn
 
-### Analysis ###
+### Analysis 
 #### 1. Description of Dataset.####
 It consist of 5 attributes:-
 1. sepal length in cm
@@ -28,5 +28,5 @@ RandomForestClassifier is being used.
 #### 6.Final Model 
 It is ready to use in ML.
 
-### Source of Dataset :###
+### Source of Dataset :
 https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data
