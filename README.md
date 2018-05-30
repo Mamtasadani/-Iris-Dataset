@@ -1,13 +1,13 @@
 # -Iris-Dataset
 
 ### Question.
-Program to build models and complete predictive modeling machine learning project using *IRIS dataset*
+Program to build models and complete predictive modeling machine learning project using *iris dataset*
 
 ### Python libraries used :
 pandas,matplotlib,numpy,scikit-learn
 
 ### Analysis 
-#### 1. Description of Dataset.####
+#### 1. Description of Dataset.
 It consist of 5 attributes:-
 1. sepal length in cm
 2. sepal width in cm
